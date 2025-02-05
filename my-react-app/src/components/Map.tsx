@@ -8,6 +8,6 @@ interface MapProp {
 export const Map = ({place}: MapProp) => {
   return (
     <div>Map</div>
-  )
+  ) 
 }
 
